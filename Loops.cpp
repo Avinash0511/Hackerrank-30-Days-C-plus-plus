@@ -1,4 +1,4 @@
-Day 5: Loops
+//Day 5: Loops
 #include <bits/stdc++.h>
 
 using namespace std;
