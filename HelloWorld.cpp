@@ -1,3 +1,4 @@
+//Day 0: Hello, World
 #include <cmath>
 #include <cstdio>
 #include <vector>
