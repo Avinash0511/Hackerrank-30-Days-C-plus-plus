@@ -1,5 +1,6 @@
-using namespace std;
+Day 4: Class vs. Instance
 #include <iostream>
+using namespace std;
 
 class Person{
     public:
